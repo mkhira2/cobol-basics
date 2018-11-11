@@ -11,7 +11,7 @@ cd cobol-basics
 
 ## How To Compile and Run
 
-Requies a compile program such as gnu-cobol, etc.
+Requires a compile program such as gnu-cobol, etc.
 ```
 brew install gnu-cobol OR
 sudo apt-get install gnu-cobol
