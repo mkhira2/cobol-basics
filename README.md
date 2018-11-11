@@ -21,6 +21,8 @@ Compile: `cobc -x filename.cbl`
 
 Run: `./filename`
 
+---------------
+
 Standard ANS'85 Cobol programs are laid out as follows:
 
 Columns 1-6 Sequence number, may be left blank
