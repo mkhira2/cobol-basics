@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. Multip.
-       AUTHOR. kenjihirabayashi
+       PROGRAM-ID. MULTIPLY-EXAMPLE.
+       AUTHOR. kenjihirabayashi.
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.

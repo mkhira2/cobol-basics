@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
-       AUTHOR. kenjihirabayashi
        PROGRAM-ID. INCREMENT-EXAMPLE.
+       AUTHOR. kenjihirabayashi.
       * Program takes a value,
       * increments from 1 to entered value,
       * and prints those values.

@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
-       AUTHOR. kenjihirabayashi
        PROGRAM-ID. NESTED-IF-EXAMPLE.
+       AUTHOR. kenjihirabayashi.
       * Example using nested if's
        DATA DIVISION.
        WORKING-STORAGE SECTION.

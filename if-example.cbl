@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
-       AUTHOR. kenjihirabayashi
        PROGRAM-ID. IF-EXAMPLE.
+       AUTHOR. kenjihirabayashi.
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.

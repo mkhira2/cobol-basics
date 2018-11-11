@@ -1,7 +1,7 @@
       * Prints predefined message
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. PreDefMsg.
-       AUTHOR. kenjihirabayashi
+       PROGRAM-ID. MESSAGE-EXAMPLE.
+       AUTHOR. kenjihirabayashi.
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
